@@ -1,6 +1,9 @@
 #STRUKTUR 
+
 📦proyek1
+
  ┣ 📂Dashboard
+	
  ┃ ┣ 📜dashboard.py
  ┃ ┗ 📜requirements.txt
  ┗ 📂Data
