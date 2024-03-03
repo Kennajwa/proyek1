@@ -5,7 +5,7 @@ import seaborn as sns
 import streamlit as st
 
 
-day_df = pd.read_csv("https://raw.githubusercontent.com/Kennajwa/proyek1/main/day.csv")
+day_df = pd.read_csv("https://raw.githubusercontent.com/Kennajwa/proyek1/main/Data/day.csv")
 day_df["dteday"] = pd.to_datetime(day_df["dteday"])
 
 day_df['yr'] = day_df['yr'].map({
