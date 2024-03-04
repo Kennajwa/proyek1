@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PENJELASAN DATA 
 Data berasal dari kaggle yaitu bike sharing dataset. Pada dataset ini terdapat beberapa variabel sebagai berikut :
 
@@ -48,10 +48,8 @@ python -m streamlit run dashboard.py
 
 ## Tampilan Dashboard Sederhana 
 
-![image1](https://github.com/Kennajwa/proyek1/blob/main/All/Tampilan%20Dashboard/Screenshot%20(127).png)
+![image1](https://github.com/Kennajwa/proyek1/blob/main/Tampilan%20Dashboard/Screenshot%20(127).png)
 
-
-![image](https://github.com/Kennajwa/proyek1/blob/main/All/Tampilan%20Dashboard/Screenshot%20(128).png)
 
 
 
